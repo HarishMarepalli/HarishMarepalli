@@ -20,7 +20,6 @@ Currently a graduate student at San Jose State University in Computer Engineerin
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarishMarepalli)](https://twitter.com/HarishMarepalli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/harish.marepalli/)](https://www.instagram.com/harish.marepalli)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/marepalli.harish/)](https://www.facebook.com/marepalli.harish)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=raviraj06122000@gmail.com)](https://mail.google.com/mail/u/?authuser=raviraj06122000@gmail.com)
 
 ### :computer: What I code with
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=for-the-badge)
