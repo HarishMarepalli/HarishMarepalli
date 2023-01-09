@@ -45,3 +45,12 @@ Currently a graduate student at San Jose State University in Computer Engineerin
 ### :massage_man: Hobbies
 ![Music](https://img.shields.io/badge/Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![Gaming](https://img.shields.io/badge/-Gaming-107C10?logo=Xbox&logoColor=black&style=for-the-badge)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarishMarepalli&show_icons=true&locale=en&layout=compact" alt="HarishMarepalli" /></p>
+
+<details>
+  <summary><h3>🚀 GitHub Stats </h3></summary>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishMarepalli&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="Harish's Github Stats" />
+</p>
+</details>
