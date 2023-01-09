@@ -20,6 +20,7 @@ Currently a graduate student at San Jose State University in Computer Engineerin
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarishMarepalli)](https://twitter.com/HarishMarepalli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/harish.marepalli/)](https://www.instagram.com/harish.marepalli)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/marepalli.harish/)](https://www.facebook.com/marepalli.harish)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=raviraj06122000@gmail.com)](https://mail.google.com/mail/u/?authuser=raviraj06122000@gmail.com)
 
 ### :computer: What I code with
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=for-the-badge)
@@ -27,9 +28,10 @@ Currently a graduate student at San Jose State University in Computer Engineerin
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### :computer: Frameworks/Libraries/Web Development Languages I use
+### :computer: Frameworks/Libraries/Databases/Web Development Languages I use
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
