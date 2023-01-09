@@ -39,3 +39,7 @@ Currently a graduate student at San Jose State University in Computer Engineerin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### :massage_man: Hobbies
+![Music](https://img.shields.io/badge/Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
+![Gaming](https://img.shields.io/badge/-Gaming-107C10?logo=Xbox&logoColor=black&style=for-the-badge)
