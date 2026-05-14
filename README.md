@@ -12,7 +12,7 @@
 
 ### :man_technologist: A little about me...
 
-I am a passionate software engineer with 7+ years of experience in developing web applications. I have a strong understanding of JavaScript, Java, Angular and React. I am also proficient in HTML, CSS, and SQL. I am passionate about building scalable and reliable software. In my free time, I enjoy contributing to open-source projects and learning new technologies. Currently a graduate student at San Jose State University in Computer Engineering. Actively looking for the Spring 2024 Software Engineer full-time opportunities.
+I am a passionate software engineer with 7+ years of experience in developing web applications. I have a strong understanding of Java, Spring Boot, JavaScript, Angular and React. I am also proficient in HTML, CSS, and SQL. I am passionate about building scalable and reliable software. In my free time, I enjoy contributing to open-source projects and learning new technologies. Currently a graduate student at San Jose State University in Computer Engineering. Actively looking for the Spring 2024 Software Engineer full-time opportunities.
 
 ### :mailbox_with_mail: How to reach me
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/HarishMarepalli/)](https://github.com/HarishMarepalli/)
